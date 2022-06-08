@@ -1,6 +1,6 @@
 - 👋 Hi, I’m poulamighosh
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : poulami.ghosh@thoughtworks.com
 
